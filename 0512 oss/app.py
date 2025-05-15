@@ -3,7 +3,7 @@ import pandas as pd
 import pydeck as pdk
 
 # CSV 데이터 로드
-DATA_PATH = "KC_CLTUR_SAFE_MAP_INFO_2024.csv"
+DATA_PATH = "0512 oss/KC_CLTUR_SAFE_MAP_INFO_2024.csv"
 data = pd.read_csv(DATA_PATH)
 
 st.title("2024년도 교통사고 데이터")
