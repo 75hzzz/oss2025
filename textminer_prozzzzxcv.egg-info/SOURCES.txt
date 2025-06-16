@@ -1,0 +1,14 @@
+README.md
+setup.py
+tests/__init__.py
+tests/test_cleaner.py
+tests/test_dectector.py
+textminer/__init__.py
+textminer/cleaner.py
+textminer/detector.py
+textminer/summarizer.py
+textminer_prozzzzxcv.egg-info/PKG-INFO
+textminer_prozzzzxcv.egg-info/SOURCES.txt
+textminer_prozzzzxcv.egg-info/dependency_links.txt
+textminer_prozzzzxcv.egg-info/requires.txt
+textminer_prozzzzxcv.egg-info/top_level.txt

@@ -1,0 +1,31 @@
+Metadata-Version: 2.4
+Name: textminer-prozzzzxcv
+Version: 0.1.0
+Summary: 고급 텍스트 분석을 위한 Python 패키지
+Home-page: https://github.com/username/textminer-pro
+Author: Student
+Author-email: student@example.com
+Project-URL: Bug Tracker, https://github.com/username/textminer-pro/issues
+Keywords: nlp,text mining,text analysis,keyword extraction,summarization,language detection
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Text Processing :: Linguistic
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: nltk>=3.6.0
+Requires-Dist: scikit-learn>=0.24.0
+Requires-Dist: langdetect>=1.0.9
+Requires-Dist: numpy>=1.19.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: keywords
+Dynamic: project-url
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
